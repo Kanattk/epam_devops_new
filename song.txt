@@ -15,6 +15,4 @@ In the way
 What awaits us
 Only blood, tears and women
 
-But we know
-Our names
-Never be forgotten
+#removed last three lines
